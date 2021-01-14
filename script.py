@@ -20,7 +20,7 @@ bytes = random._urandom(1490)
 os.system("clear")
 os.system("figlet Matador de ip")
 print
-print "Author   : CHsync"
+print("Author   : CHsync")
 print
 ip = raw_input("Alvo ip : ")
 port = input("Port       : ")
