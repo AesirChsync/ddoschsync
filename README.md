@@ -1,0 +1,2 @@
+# ddoscript.
+uaa
